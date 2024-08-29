@@ -1,4 +1,4 @@
-# ChurnPrediction
+# Churn Prediction with Machine Learning
 The  project intends to find the main drivers of churn for a company's clients. To do this, four different predictive are tested to classify the data and compared against using different metrics to then select a final one. The final and selected model is then finetuned for better fitness, adjusting its parameters. These four models are: 
 
 * Logistic Regression
